@@ -1,0 +1,21 @@
+-------------------------------------------------
+INCLUDED FILES:
+
+Costume.cam.html
+README.txt (this file)
+src (folder)
+        COSTUMES (folder)
+                clown_nose.svg
+                clown_wig.svg
+        UI (folder)
+                background.svg
+                Button3-a.svg
+                Button3-a2.svg
+                homebutton.svg
+                txt_enablewebcam.svg
+                txt_havefun.svg
+                txt_title.svg
+                txt_ver1.0.0.svg
+        Circus_theme_song.mp3
+        CostumeCam 1.0.0.sb3 (open in TURBOWARP)
+-------------------------------------------------
